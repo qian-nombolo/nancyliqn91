@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I used to work as a engineer for many years.
 
 ## Skills
-- 🌱 Languages: c#, JavaScript, Python, Java
+- 🌱 Languages: C#, JavaScript, Python, Java
 - 🌱 Frameworks: .NET
 - 🌱 Libraries: React
 - 🌱 Databases: SQL
