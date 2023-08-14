@@ -12,9 +12,8 @@
 ## Skills
 - 🌱 Languages and Markup: JavaScript (ES6), C#, JSX, HTML, CSS, JSON
 - 🌱 Front-End Frameworks and Libraries: React, Redux, React Native, Chart.js 
-- 🌱 Back-End and Database: Node.js, .NET 6, Entity Framework Core, RestSharp, MySQL
-- 🌱 Development Tools: Visual Studio Code, Zsh shell, Git, GitHub, Node.js, npm (Node Package Manager), webpack, Jest, Firebase, Azure, Firestore Database
-
+- 🌱 Back-End and Database: Node.js, .NET 6, Entity Framework Core, RestSharp, MySQL, Firebase, Azure, Firestore Database
+- 🌱 Development Tools: Visual Studio Code, Zsh shell, Git, Node.js, npm, webpack, Jest
 ## Additional Skills and Certifications
 
 - 🌱 Jupyter Notebook: Proficient in using Jupyter Notebook for interactive data analysis and exploration.
