@@ -2,19 +2,18 @@
 
 <!--
 **nancyliqn91/nancyliqn91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🤔 I’m looking for help with a internship to sharp my skills.
 -->
 
-- 🔭 I’m a Jr. Full-Stack Web Developer to be.
+- 🔭 I’m a Jr. Full-Stack Web Developer.
 - 👯 I’m looking to collaborate on AI and web development.
 - 📫 How to reach me: Please see my [linkedin](www.linkedin.com/in/qian-li-calla) for more information.
-- ⚡ Fun fact: I used to work as a engineer for many years.
+- ⚡ Fun fact: Work as an engineer for many years.
 
 ## Skills
-- 🌱 Languages: C#, JavaScript, Python, Java
-- 🌱 Frameworks: .NET
-- 🌱 Libraries: React
-- 🌱 Databases: SQL
+- 🌱 Languages and Markup: JavaScript (ES6), C#, JSX, HTML, CSS, JSON
+- 🌱 Front-End Frameworks and Libraries: React, Redux, React Native, Chart.js 
+- 🌱 Back-End and Database: Node.js, .NET 6, Entity Framework Core, RestSharp, MySQL
+- 🌱 Development Tools: Visual Studio Code, Zsh shell, Git, GitHub, Node.js, npm (Node Package Manager), webpack, Jest, Firebase, Azure, Firestore Database
 
 ## Additional Skills and Certifications
 
