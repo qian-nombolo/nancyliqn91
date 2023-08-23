@@ -10,7 +10,7 @@
 - ⚡ Fun fact: Work as an engineer for many years.
 
 ## Skills
-- 🌱 Languages and Markup: JavaScript (ES6), C#, JSX, HTML, CSS, JSON
+- 🌱 Languages and Markup: JavaScript (ES6), C#, Python, Java, JSX, HTML, CSS, JSON
 - 🌱 Front-End Frameworks and Libraries: React, Redux, React Native, Chart.js 
 - 🌱 Back-End and Database: Node.js, .NET 6, Entity Framework Core, RestSharp, MySQL, Firebase, Azure, Firestore Database
 - 🌱 Development Tools: Visual Studio Code, Zsh shell, Git, Node.js, npm, webpack, Jest
